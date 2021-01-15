@@ -339,6 +339,34 @@ h1, h2, .section h3 {
     overflow: scroll;
     max-height: 1000px;
 }
+/* Languages list */
+.language{
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: rgba(221, 221, 221, 0.493);
+    border-radius: 10px;
+    overflow: scroll;
+    max-height: 1000px;
+}
+
+.conatiner-language{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    padding: 20px;
+    background-color: white;
+    margin-bottom: 20px;
+    overflow: scroll;
+    font-size: 15px;
+}
+.repo-name{
+    display: inline-block;
+}
+.lang-name{
+    float: right;
+}
+/* language section sends */
 
 /*First Timers Issues List */
 
